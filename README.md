@@ -1,6 +1,6 @@
-# Customer Support Agent (ADK 2.0 Graph Workflow)
+# Smart-Route-Agent (ADK 2.0 Graph Workflow)
 
-A graph-based customer support agent for a shipping company, built with
+Customer Support Agent for a shipping company, built with
 [Google's Agent Development Kit (ADK) 2.0](https://google.github.io/adk-docs/).
 The agent classifies an incoming user query and deterministically routes it to
 either a shipping FAQ agent or a polite decline response.
@@ -93,8 +93,8 @@ customer-support-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/customer-support-agent.git
-cd customer-support-agent
+git clone https://github.com/Naheemah-babs/smart-route-agent.git
+cd smart-route-agent
 ```
 
 ### 2. Create a virtual environment and install dependencies
