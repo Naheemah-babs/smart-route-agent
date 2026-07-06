@@ -106,11 +106,6 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configure your API key
-
-```bash
-cp .env.example .env
-```
-
 Edit `.env` and set `GOOGLE_API_KEY` to your Gemini API key (or set the
 Vertex AI variables if you're using Vertex instead).
 
